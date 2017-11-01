@@ -1,3 +1,7 @@
+
+library(shiny)
+library(shinyjs)
+
 setwd("~/R")
 
 shinyApp(
