@@ -6,7 +6,7 @@ shinyApp(
     
       useShinyjs(),
       
-      titlePanel("My Shiny App"),
+      titlePanel("My Shiny App - edit version"),
       
       fluidRow(
         
